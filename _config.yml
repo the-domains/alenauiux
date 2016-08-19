@@ -1,0 +1,14 @@
+layout_spectrum: 0.26401267666369677
+typography_spectrum: 0.20885351533070207
+color:
+  brandStrength: 0.5848744479008019
+  lightness: 0.25245979335159063
+  saturation: 0.9545816646423191
+  rhythmicContrast: 0.049221350345760584
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: alenauiux
